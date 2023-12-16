@@ -1,4 +1,5 @@
-# HP Pavilion Gaming 15-dk00xxxx Hackintosh OpenCore
+# Hackintosh-Sonoma-HP-Pavilion-15-dk00xxxx-OpenCore
+
 
 **Status: (Active) | Stable** <br>
 **Current version: Sonoma 14.1**
@@ -35,33 +36,6 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 </details>  
 
-<details>
-<summary>
-    <strong>Kernel extensions</strong>
-</summary>
-
-| Kext                        | Version        | Additional description |
-| :-------------------------: | :------------: | ---------------------- |
-| [Itlwm](https://github.com/OpenIntelWireless/itlwm/releases)         | 2.3.0 | |
-| [AppleALC](https://github.com/acidanthera/AppleALC/releases)                | 1.8.9 | |
-| [CPUFriend](https://github.com/acidanthera/CPUFriend/releases)              | 1.2.8 | |
-| [CtlnaAHCIPort](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/CtlnaAHCIPort.kext.zip)|  N/A  | Kext helps to detect GOODRAM SSD on MacOS Big Sur, founded in [Opencore Install Guide](https://github.com/dortania/OpenCore-Install-Guide/blob/master/extra-files/CtlnaAHCIPort.kext.zip) repository (current version points to 22/08/2020).|
-| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)| 1.1.2 | |
-| [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)| 1.1.2 | |
-| [Lilu](https://github.com/acidanthera/lilu/releases)                        | 1.5.1 | |
-| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases)                  | 1.0.5 | |
-| [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) | 2.3.0 | |
-| [SMCBatteryManager](https://github.com/acidanthera/virtualsmc/releases)     | 1.2.0 | |
-| [SMCProcessor](https://github.com/acidanthera/virtualsmc/releases)          | 1.2.0 | |
-| [SMCSuperIO](https://github.com/acidanthera/virtualsmc/releases)            | 1.2.0 | |
-| [USBMap](https://github.com/corpnewt/USBMap)                                |  N/A  | Please use USBInjectAll.kext to system installation and  after it generate your own version of USBMap using [USBMap](https://github.com/corpnewt/USBMap) or [Hackintool](https://github.com/headkaze/Hackintool). Tread it as sample.|
-| [VirtualSMC](https://github.com/acidanthera/virtualsmc/releases)            | 1.2.0 | |
-| [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C/releases)                | 2.6.4 | |
-| [VoodooI2CHID](https://github.com/VoodooI2C/VoodooI2C/releases)             | 2.6.4 | |
-| [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2/releases)    | 2.2.1 | |
-| [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)      | 1.4.7 | From version 1.4.6 I need to add boot argument `-igfxblr` to fix black screen on system loading.|
-
-</details>
 
 <details>
 <summary>
@@ -70,9 +44,9 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 |     Driver      | Version           |
 | :-------------: | :---------------: |
-| OpenHfsPlus.efi | OpenCorePkg 0.6.6 |
-| OpenCanopy.efi  | OpenCorePkg 0.6.6 |
-| OpenRuntime.efi | OpenCorePkg 0.6.6 |
+| OpenHfsPlus.efi | OpenCorePkg 0.9.7 |
+| OpenCanopy.efi  | OpenCorePkg 0.9.7 |
+| OpenRuntime.efi | OpenCorePkg 0.9.7 |
 
 </details>
 
