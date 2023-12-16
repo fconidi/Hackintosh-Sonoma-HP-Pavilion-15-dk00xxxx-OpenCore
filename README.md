@@ -17,9 +17,6 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 ### **HP Pavilion Gaming 15-**dk0047nl
 
-#<img align="center" src="./extras/images/laptop_model/HP_15-dk0021nw.gif" alt="HP Pavilion Gaming 15-dk0021nw macOS" width="100%"/><br>
-
-[![![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/us-en/drivers/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968/)
 
  | Component       | Manufacturer and model                                | Additional description           |
  | --------------- | ----------------------------------------------------- | -------------------------------- |
