@@ -5,6 +5,7 @@ HACKINTOSH SONOMA
 For
 
 HP Pavilion Gaming Laptop 15-dk0xxx
+
 HP Pavilion Gaming - 15-dk0047nl 
 
 CPU
