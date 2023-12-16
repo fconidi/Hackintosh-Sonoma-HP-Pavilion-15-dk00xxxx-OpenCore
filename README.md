@@ -89,7 +89,7 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 - `Legacy Support -> Disabled`
 - `Secure Boot -> Disabled`
 
-<details>
+</details>
 
 
 ## Configuration advices (config.plist)
