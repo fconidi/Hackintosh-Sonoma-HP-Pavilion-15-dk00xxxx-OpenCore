@@ -1,8 +1,8 @@
 # Hackintosh-Sonoma-HP-Pavilion-15-dk00xxxx-OpenCore
 
 HACKINTOSH SONOMA
-        
-        FOR
+
+For
 
 HP Pavilion Gaming Laptop 15-dk0xxx
 HP Pavilion Gaming - 15-dk0047nl 
@@ -56,13 +56,13 @@ Minimum dimensions (W x D x H)
 
 
 Netword card
-				
-                               Realtek 802.11b/g/n/a/ac (2x2) and Bluetooth® 4.2 combo
-                               repalced with 
-                               Intel(R) Dual Band Wireless-AC 3168
+
+Realtek 802.11b/g/n/a/ac (2x2) and Bluetooth® 4.2 combo
+repalced with 
+Intel(R) Dual Band Wireless-AC 3168
 			       
-                               LAN: RTL8111                               
-                               Realtek Gaming GbE Family Controller
+LAN: RTL8111
+Realtek Gaming GbE Family Controller
 
 Video Card
                                 Grafica NVIDIA® GeForce® GTX 1650 (4 GB GDDR5)
