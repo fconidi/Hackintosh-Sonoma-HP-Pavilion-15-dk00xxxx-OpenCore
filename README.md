@@ -2,7 +2,7 @@
 # Hackintosh-Sonoma-HP-Pavilion-15-dk00xxxx-OpenCore
 
 
-**Status: Finished (Active) <br>
+**Status: (Active)** <br>
 **Current version: Sonoma 14.1**
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
