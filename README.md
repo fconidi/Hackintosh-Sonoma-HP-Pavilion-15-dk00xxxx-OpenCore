@@ -117,14 +117,13 @@ You can find configuration guide for Coffee Lake Plus laptops on [dortania.githu
     UseRawUuidEncoding -> False
 
 - **Generic**
-  - `AdviseWindows -> False`
+  - `AdviseFeatures -> False`
   - `MaxBIOSVersion -> False`
-  - `ProcessorType -> 0`
-  - `ROM -> 11223344 5566`
   - `SpoofVendor -> True`
+  - `ProcessorType -> 1793`
   - `SystemMemoryStatus -> Auto`
 
- **Note**: You need to generate your own values for `SystemProductName`, `SystemSerialNumber`, `MLB` and `SystemUUID` using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
+ **Note**: You need to generate your own values for `SystemProductName`, `SystemSerialNumber`, `MLB`, `ROM` and `SystemUUID` using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
  I'm using SMBIOS for MacBookPro16.4, in MacOS Ventura MacBookPro16.1.
 
 </details>
