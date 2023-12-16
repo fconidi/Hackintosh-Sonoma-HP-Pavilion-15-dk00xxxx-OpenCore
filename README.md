@@ -194,4 +194,5 @@ So I decided to use rEFInd Boot Manager
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) team - for enable of laptop default Intel Wireless Wi-Fi card.
 - [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) - for enable of laptop default Realtek sound card
 - [VoodooI2C](https://github.com/VoodooI2C) team - for enable of laptop keyboard
+- [KrolSeb](https://github.com/KrolSeb) -  for great Hackintosh README that was my inspiration for this document
 - ... and the rest of not mentioned people who works on Hackintosh project :)
