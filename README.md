@@ -55,7 +55,7 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
     <strong>Neofetch screenshot</strong>
 </summary>
 
-<img src="./extras/images/neofetch/neofetch.jpg" alt="Neofetch screenshot" width="100%"/>
+<img src="/main/blob/neofetch.png" alt="Neofetch screenshot" width="100%"/>
 
 </details>
 
