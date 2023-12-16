@@ -46,7 +46,7 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 |     Driver      | Version           |
 | :-------------: | :---------------: |
-| OpenHfsPlus.efi | OpenCorePkg 0.9.7 |
+| HfsPlus.efi | OpenCorePkg 0.9.7 |
 | OpenCanopy.efi  | OpenCorePkg 0.9.7 |
 | OpenRuntime.efi | OpenCorePkg 0.9.7 |
 
