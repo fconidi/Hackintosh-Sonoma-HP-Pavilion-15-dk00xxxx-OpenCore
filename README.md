@@ -1,0 +1,1 @@
+# Hackintosh-Sonoma-HP-Pavilion-15-dk00xxxx-OpenCore
