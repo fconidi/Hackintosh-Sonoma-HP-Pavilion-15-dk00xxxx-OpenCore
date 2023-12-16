@@ -1,7 +1,7 @@
 # HP Pavilion Gaming 15-dk00xxxx Hackintosh OpenCore
 
-**Status: Finished (Active - monthly updated) | Stable** <br>
-**Current version: Big Sur 11.2 (20D64)**
+**Status: (Active) | Stable** <br>
+**Current version: Sonoma 14.1**
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 
@@ -17,9 +17,9 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 ### **HP Pavilion Gaming 15-**dk0047nl
 
-<img align="center" src="./extras/images/laptop_model/HP_15-dk0021nw.gif" alt="HP Pavilion Gaming 15-dk0021nw macOS" width="100%"/><br>
+#<img align="center" src="./extras/images/laptop_model/HP_15-dk0021nw.gif" alt="HP Pavilion Gaming 15-dk0021nw macOS" width="100%"/><br>
 
-[![HP](https://img.shields.io/badge/HP-Specs-red.svg)](https://support.hp.com/us-en/document/31330968) [![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/us-en/drivers/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968/)
+[![![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/us-en/drivers/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968/)
 
  | Component       | Manufacturer and model                                | Additional description           |
  | --------------- | ----------------------------------------------------- | -------------------------------- |
