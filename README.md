@@ -13,14 +13,12 @@
 Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) guide before you start. I'm not responsible for any damage.
 
 <details>
-
 <summary>
     <strong>Hardware configuration</strong>
 </summary>
 
 ### **HP Pavilion Gaming 15-**dk0047nl
 
-[![HP](https://img.shields.io/badge/HP-Specs-red.svg)](https://support.hp.com/us-en/product/details/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968) [![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/us-en/drivers/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968/)
 
 
  | Component       | Manufacturer and model                                | Additional description           |
