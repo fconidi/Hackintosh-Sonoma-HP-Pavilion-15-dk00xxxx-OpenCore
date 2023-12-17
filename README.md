@@ -179,7 +179,7 @@ You can find configuration guide for Coffee Lake Plus laptops on [dortania.githu
     <strong>rEFInd Boot Manager </strong>
 </summary>
 
-I use 4 different operating systems on my laptop (macOS, Windows 11, SysLinuxOS, Debian)
+I use 4 different OS on my laptop (macOS, Windows 11, SysLinuxOS, Debian)
 and it's necessary for me to select proper system to work on every boot.
 So I decided to use rEFInd Boot Manager
 </details>
