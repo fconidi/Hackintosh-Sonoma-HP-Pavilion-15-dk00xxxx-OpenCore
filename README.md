@@ -23,8 +23,6 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 [![HP](https://img.shields.io/badge/HP-Specs-red.svg)](https://support.hp.com/us-en/product/details/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968) [![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/us-en/drivers/hp-pavilion-gaming-15-dk0000-laptop-pc/model/31330968/)
 
 
-
-
  | Component       | Manufacturer and model                                | Additional description           |
  | --------------- | ----------------------------------------------------- | -------------------------------- |
  | CPU             | Intel Core i7-9750H (9th gen - Coffee Lake Plus)      |                                  |
@@ -171,7 +169,6 @@ You can find configuration guide for Coffee Lake Plus laptops on [dortania.githu
 - `iTunes Store`
   
 </details>
-
 
 
 <details>  
